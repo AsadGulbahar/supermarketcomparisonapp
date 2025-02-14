@@ -1,0 +1,133 @@
+1.Fresh Food
+    1.1 Fresh Fruit
+        1.1.1 Bananas
+        https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-fruit/bananas?include-children=true
+        1.1.2 Apples & Pears
+        https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-fruit/apples-and-pears?include-children=true
+        1.1.3 Berries & Cherries
+        https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-fruit/berries-and-cherries?include-children=true
+        1.1.4 Oranges, Lemons & Citrus Fruit
+        https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-fruit/oranges-lemons-and-citrus-fruit?include-children=true
+        1.1.5 Grapes
+        https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-fruit/grapes?include-children=true
+        1.1.6 Peaches, Nectarines, Plums & Apricots
+        https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-fruit/peaches-nectarines-plums-and-apricots?include-children=true
+        1.1.7 Melons & Pineapples
+        https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-fruit/melons-and-pineapples?include-children=true
+        1.1.8 Mango, Kiwi & Exotic Fruit
+        https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-fruit/mango-kiwi-and-exotic-fruit?include-children=true
+        1.1.9 Rhubarb
+        https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-fruit/rhubarb?include-children=true
+        1.1.10 Fruit Pots, Platters & Packs
+        https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-fruit/fruit-pots-platters-and-packs?include-children=true
+        1.1.11 Dried Fruit, Nuts & Seeds
+        https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-fruit/dried-fruit-nuts-and-seeds?include-children=true
+        1.1.12 Organic Fruit & Nuts
+        https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-fruit/organic-fruit-and-nuts?include-children=true
+
+    1.2 Fresh Vegetables & Fresh Flowers
+        1.2.1 Fresh Flowers
+        https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-vegetables-and-fresh-flowers/fresh-flowers?include-children=true
+        1.2.2 potatoes-and-sweet-potatoes
+        https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-vegetables-and-fresh-flowers/potatoes-and-sweet-potatoes?include-children=true
+        1.2.3 onions-and-leeks
+        https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-vegetables-and-fresh-flowers/onions-and-leeks?include-children=true
+        1.2.4 carrots-and-root-vegetables
+        https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-vegetables-and-fresh-flowers/carrots-and-root-vegetables?include-children=true
+        1.2.5 broccoli-and-cauliflower
+        https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-vegetables-and-fresh-flowers/broccoli-and-cauliflower?include-children=true
+        1.2.6 spinach-cabbages-and-greens
+        https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-vegetables-and-fresh-flowers/spinach-cabbages-and-greens?include-children=true     
+        1.2.7 courgettes-aubergines-and-squash
+        https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-vegetables-and-fresh-flowers/courgettes-aubergines-and-squash?include-children=true
+        1.2.8 mushrooms
+        https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-vegetables-and-fresh-flowers/mushrooms?include-children=true     
+        1.2.9 peas-beans-sweetcorn-and-asparagus
+        https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-vegetables-and-fresh-flowers/peas-beans-sweetcorn-and-asparagus?include-children=true 
+        1.2.10 fresh-chillies-herbs-garlic-and-ginger
+        https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-vegetables-and-fresh-flowers/fresh-chillies-herbs-garlic-and-ginger?include-children=true
+        1.2.11 international-vegetables
+        https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-vegetables-and-fresh-flowers/international-vegetables?include-children=true
+        1.2.12 stir-fry-vegetables-sauce-and-noodles
+        https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-vegetables-and-fresh-flowers/stir-fry-vegetables-sauce-and-noodles?include-children=true
+        1.2.13 prepared-vegetables
+        https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-vegetables-and-fresh-flowers/prepared-vegetables?include-children=true
+    
+    1.3 Fresh Salad, Coleslaw & Sandwich Fillers
+        1.2.1 Fresh Flowers
+        https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-salad-coleslaw-and-sandwich-fillers/lettuce-and-salad-bags?include-children=true        
+        1.2.2 potatoes-and-sweet-potatoes
+        https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-salad-coleslaw-and-sandwich-fillers/tomatoes?include-children=true        
+        1.2.3 onions-and-leeks
+        https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-salad-coleslaw-and-sandwich-fillers/cucumber?include-children=true        
+        1.2.4 carrots-and-root-vegetables
+        https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-salad-coleslaw-and-sandwich-fillers/celery?include-children=true        
+        1.2.5 broccoli-and-cauliflower
+        https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-salad-coleslaw-and-sandwich-fillers/peppers?include-children=true        
+        1.2.6 spinach-cabbages-and-greens
+        https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-salad-coleslaw-and-sandwich-fillers/avocado?include-children=true        
+        1.2.7 courgettes-aubergines-and-squash
+        https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-salad-coleslaw-and-sandwich-fillers/spring-onions-radish-and-beetroot?include-children=true        
+        1.2.8 mushrooms
+        https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-salad-coleslaw-and-sandwich-fillers/salad-dressings-and-croutons?include-children=true        
+        1.2.9 peas-beans-sweetcorn-and-asparagus
+        https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-salad-coleslaw-and-sandwich-fillers/salad-pots-and-pasta-salad?include-children=true        
+        1.2.10 fresh-chillies-herbs-garlic-and-ginger
+        https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-salad-coleslaw-and-sandwich-fillers/fresh-chillies-herbs-garlic-and-ginger?include-children=true        
+        1.2.11 international-vegetables
+        https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-salad-coleslaw-and-sandwich-fillers/organic-salad?include-children=true        
+        1.2.12 stir-fry-vegetables-sauce-and-noodles
+        https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-salad-coleslaw-and-sandwich-fillers/coleslaw-and-potato-salad?include-children=true        
+        1.2.13 prepared-vegetables
+        https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-salad-coleslaw-and-sandwich-fillers/houmous-and-dips?include-children=true
+        
+        1.2.13 prepared-vegetables
+        https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-salad-coleslaw-and-sandwich-fillers/sandwich-fillers?include-children=true
+
+    1.4 Chilled Vegetarian & Vegan
+
+        Sausages https://www.tesco.com/groceries/en-GB/shop/fresh-food/chilled-vegetarian-and-vegan/sausages
+
+        Burgers https://www.tesco.com/groceries/en-GB/shop/fresh-food/chilled-vegetarian-and-vegan/burgers
+
+        Escalopes & Nuggets https://www.tesco.com/groceries/en-GB/shop/fresh-food/chilled-vegetarian-and-vegan/escalopes-and-nuggets
+
+        Kebabs, Strips & Pieces https://www.tesco.com/groceries/en-GB/shop/fresh-food/chilled-vegetarian-and-vegan/kebabs-strips-and-pieces
+
+        Mince https://www.tesco.com/groceries/en-GB/shop/fresh-food/chilled-vegetarian-and-vegan/mince
+
+        Bacon Alternatives https://www.tesco.com/groceries/en-GB/shop/fresh-food/chilled-vegetarian-and-vegan/bacon-alternatives
+
+        Steaks https://www.tesco.com/groceries/en-GB/shop/fresh-food/chilled-vegetarian-and-vegan/steaks
+
+        Meatball Alternatives https://www.tesco.com/groceries/en-GB/shop/fresh-food/chilled-vegetarian-and-vegan/meatball-alternatives
+
+        Roasts  https://www.tesco.com/groceries/en-GB/shop/fresh-food/chilled-vegetarian-and-vegan/roasts
+
+        Tofu & Tempeh https://www.tesco.com/groceries/en-GB/shop/fresh-food/chilled-vegetarian-and-vegan/tofu-and-tempeh
+
+        Deli Slices, Ready to Eat Pieces & Falafels https://www.tesco.com/groceries/en-GB/shop/fresh-food/chilled-vegetarian-and-vegan/deli-slices-ready-to-eat-pieces-and-falafels
+
+        Vegan Cheese Alternatives https://www.tesco.com/groceries/en-GB/shop/fresh-food/chilled-vegetarian-and-vegan/vegan-cheese-alternatives
+
+        Ready Meals https://www.tesco.com/groceries/en-GB/shop/fresh-food/chilled-vegetarian-and-vegan/ready-meals
+
+        Lunch Pots & Soup https://www.tesco.com/groceries/en-GB/shop/fresh-food/chilled-vegetarian-and-vegan/lunch-pots-and-soup
+
+        Pies, Pasties & Sausage Rolls https://www.tesco.com/groceries/en-GB/shop/fresh-food/chilled-vegetarian-and-vegan/pies-pasties-and-sausage-rolls
+
+        Vegan Pizza & Pasta https://www.tesco.com/groceries/en-GB/shop/fresh-food/chilled-vegetarian-and-vegan/vegan-desserts
+
+        Vegan Desserts https://www.tesco.com/groceries/en-GB/shop/fresh-food/chilled-vegetarian-and-vegan/vegan-desserts
+
+        Egg Alternative https://www.tesco.com/groceries/en-GB/shop/fresh-food/chilled-vegetarian-and-vegan/egg-alternative
+
+3.Frozen Food
+4.Treats & Snacks
+5.Food Cupboard
+6.Drinks
+7.Baby & Toddler
+8.Health & Beauty
+9.Pets
+10.Household
+11.Home & Ents
