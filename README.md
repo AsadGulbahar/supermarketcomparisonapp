@@ -1,4 +1,4 @@
-# I do not think you will be able to run it as the database is hosted locally on my laptop
+# You will be able to run it as the database is hosted locally on my laptop
 
 ## Local development
 
